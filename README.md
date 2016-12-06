@@ -1,4 +1,4 @@
-Nva-API [![npm version](https://badge.fury.io/js/nva-api.svg)](https://badge.fury.io/js/nva-api)
+NVA API [![npm version](https://badge.fury.io/js/nva-api.svg)](https://badge.fury.io/js/nva-api)
 ===
 [![NPM](https://nodei.co/npm/nva-api.png)](https://nodei.co/npm/nva-api/)
 
