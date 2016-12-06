@@ -1,6 +1,6 @@
 {
   "name": "nva-api",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "yet another fetch adapter",
   "main": "index.js",
   "scripts": {
