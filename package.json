@@ -1,0 +1,21 @@
+{
+  "name": "nva-api",
+  "version": "0.0.2",
+  "description": "yet another fetch adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali322/nva-api.git"
+  },
+  "author": "alichen",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.3.0"
+  }
+}
